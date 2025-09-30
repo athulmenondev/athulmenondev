@@ -17,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # My Badges:
-[![@athulmenondev's Holopin board](https://holopin.me/athulmenondev)](https://holopin.io/@athulmenondev)
+**[![@athulmenondev's Holopin board](https://holopin.me/athulmenondev)](https://holopin.io/@athulmenondev)**
