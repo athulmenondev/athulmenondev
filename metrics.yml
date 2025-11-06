@@ -1,0 +1,31 @@
+name: GitHub Metrics
+on:
+  # Schedule updates (runs every 12 hours)
+  schedule:
+    - cron: "0 */12 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+  # Run on push to main branch (good for testing)
+  push:
+    branches: [ "main", "master" ]
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@v3.34.0
+        with:
+          # File name to create
+          filename: github-metrics-isocalendar.svg
+          
+          # Do not include the base (header, stats, etc.)
+          base: "" 
+          
+          # Enable the isometric calendar plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Show one full year
+
+          # Your GitHub token
+          # The GITHUB_TOKEN is automatically created by Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
