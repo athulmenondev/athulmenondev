@@ -2,10 +2,6 @@
   <img src="others/hero.svg" width="100%" alt="Hero Banner" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=athulmenondev&icon=4&color=1" />
-</p>
-
 ---
 
 ### ✦ The Identity
@@ -15,6 +11,13 @@ I am **Athul Menon**, a software developer and Computer Science student focused 
 
 ---
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
 ### ⬡ The Bento Stack
 <table border="0">
   <tr>
@@ -35,18 +38,6 @@ I am **Athul Menon**, a software developer and Computer Science student focused 
     </td>
   </tr>
 </table>
-
----
-
-### ✦ Architectural Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&text_color=8b949e&icon_color=14b8a6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=transparent&hide_border=true&layout=compact&title_color=6366f1&text_color=8b949e" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=dark&hide_border=true&background=0d111700&stroke=6366f1&ring=14b8a6&fire=14b8a6" width="97%" />
-</p>
 
 ---
 
