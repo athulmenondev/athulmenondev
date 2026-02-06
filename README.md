@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="others/hero.svg" width="100%" alt="Athul Menon Identity" />
+  <img src="others/hero.svg" width="100%" alt="Hero Banner" />
 </p>
 
 <p align="center">
@@ -8,30 +8,30 @@
 
 ---
 
-### ✦ The Manifesto
-> "Synthesizing the logic of Java with the fluidity of modern UI."
+### ✦ The Identity
+> "Building high-integrity systems with a cinematic aesthetic."
 
-I am **Athul Menon**, a developer dedicated to building high-integrity systems. Currently operating on **Debian 13** within a highly optimized **i3** environment, I treat code as a medium for both problem-solving and artistic expression. Whether it’s deep-diving into Java structures or curating the perfect soundtrack for a deployment, I thrive in the space where **precision meets creativity**.
+I am **Athul Menon**, a software developer and Computer Science student focused on the intersection of robust backend logic and elegant user experiences. Currently deep-diving into the **Java ecosystem** on a **Debian 13** environment, I enjoy architecting solutions that range from security-focused ML projects to fluid mobile applications.
 
 ---
 
-### ⬡ The Bento Vault
+### ⬡ The Bento Stack
 <table border="0">
   <tr>
     <td width="60%" rowspan="2">
-      <h3>Current Intelligence</h3>
-      <p>Mastering <b>Java Ecosystems</b> through an intensive architectural study. Focusing on OOP principles and system scalability.</p>
-      <code>Spring Boot / Hibernate / Java 21</code>
+      <h3>Machine Intelligence</h3>
+      <p>Currently engineering a <b>Phishing Detection</b> engine using ML principles. Focused on identifying threat patterns in real-time communication.</p>
+      <code>Java / ML / Debian Linux</code>
     </td>
     <td width="40%">
-      <h3>Environment</h3>
-      <p>OS: Debian 13<br/>WM: i3-gaps<br/>Terminal: Alacritty / Bash</p>
+      <h3>Sound & Vision</h3>
+      <p>Refactoring the <b>BlackHole</b> Flutter music player. Obsessed with cinematic UI and sound engineering.</p>
     </td>
   </tr>
   <tr>
     <td width="40%">
-      <h3>Creative Pulse</h3>
-      <p>Cinema Enthusiast & Sound Curator. Bringing a cinematic eye to UI design.</p>
+      <h3>Environment</h3>
+      <p>OS: Debian 13<br/>WM: i3-gaps<br/>Editor: Neovim / VS Code</p>
     </td>
   </tr>
 </table>
@@ -40,12 +40,12 @@ I am **Athul Menon**, a developer dedicated to building high-integrity systems. 
 
 ### ✦ Architectural Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&text_color=8b949e&icon_color=14b8a6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6366f1&text_color=8b949e&icon_color=14b8a6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=6366f1&text_color=8b949e&icon_color=14b8a6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=transparent&hide_border=true&layout=compact&title_color=6366f1&text_color=8b949e" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=14b8a6&fire=14b8a6" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=dark&hide_border=true&background=0d111700&stroke=6366f1&ring=14b8a6&fire=14b8a6" width="97%" />
 </p>
 
 ---
@@ -61,32 +61,24 @@ I am **Athul Menon**, a developer dedicated to building high-integrity systems. 
 
 ---
 
-### ✦ Featured Labor
-| Project | Context | Domain |
-| :--- | :--- | :--- |
-| **Phishing Guard** | ML-based detection engine | Cyber-Security |
-| **BlackHole** | Flutter Music Player Refactor | Audio Engineering |
-| **CS TechFest** | Departmental Web Portal | Event Architecture |
-
----
-
-### ⬡ The Archive
+### ✦ The Archive
 <p align="center">
-  <img src="github-metrics-isocalendar.svg" width="100%" alt="Contribution Calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulmenondev&theme=react-dark&bg_color=0d1117&hide_border=true&color=6366f1" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://holopin.io/@athulmenondev">
-    <img src="https://holopin.me/athulmenondev" width="100%" alt="Holopin Board" />
+    <img src="https://holopin.me/athulmenondev" width="100%" alt="@athulmenondev's Holopin board" />
   </a>
 </p>
 
 ---
 
-### ✦ Signal
+### ⬡ Signal
 ```json
 {
   "email": "athulmenondev@gmail.com",
-  "collaboration": "Open for high-impact Java & Web projects",
-  "status": "Currently Learning: Spring Framework"
+  "learning": "Spring Boot / Advanced Java",
+  "interests": ["Coding", "Music", "Cinematography"],
+  "collaboration": "Open for Open Source & TechFest initiatives"
 }
