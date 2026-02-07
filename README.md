@@ -65,6 +65,10 @@ I am **Athul Menon**, a software developer and Computer Science student focused 
 
 ---
 
+### ⤷ **View my portfolio [here](https://athulmenondev.github.io/portfolio/)**
+
+---
+
 ### ⬡ Signal
 ```json
 {
