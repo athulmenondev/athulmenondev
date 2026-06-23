@@ -3,27 +3,25 @@
 </p>
 
 <p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-## `./identity`
+### ✦ About
 
 > Building high-integrity systems with a cinematic aesthetic.
 
-I'm **Athul Menon**, a software developer and Computer Science student working at the intersection of robust backend architecture and refined user experience. My craft lives in the details—clean APIs, thoughtful type systems, and interfaces that feel inevitable.
+I'm **Athul Menon**, a software developer and Computer Science student working at the intersection of robust backend architecture and refined user experience. My craft lives in the details — clean APIs, thoughtful type systems, and interfaces that feel inevitable.
 
 **Current focus**: Deep in the Java ecosystem, building on **Debian 13** with i3-gaps.
 
 ---
 
-## `./work`
+### 🛠 Projects
 
 | Project | Stack | Status |
 |---------|-------|--------|
@@ -33,7 +31,7 @@ I'm **Athul Menon**, a software developer and Computer Science student working a
 
 ---
 
-## `./stack`
+### ⚡ Tech Stack
 
 ```
 languages     →  Java, JavaScript, TypeScript, Bash
@@ -45,29 +43,33 @@ environment   →  Debian 13, i3-gaps, Neovim, VS Code
 
 ---
 
-## `./signals`
+### 📊 GitHub Activity
 
 <p align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=athulmenondev&theme=github-dark&bg_color=0d1117&hide_border=true&color=6366f1&line=6366f1&point=ED8B00)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulmenondev&theme=github-dark&bg_color=0d1117&hide_border=true&color=6366f1&line=6366f1&point=ED8B00" width="100%" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=github-dark&hide_border=true" alt="Streak Stats" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/athulmenondev)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=github-dark&hide_border=true)](https://github.com/athulmenondev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=github-dark&hide_border=true&layout=compact)](https://github.com/athulmenondev)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=github-dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## `./connect`
+### ✉️ Connect
 
 - **Email**: [athulmenondev@gmail.com](mailto:athulmenondev@gmail.com)
 - **Portfolio**: [athulmenondev.is-a.dev](https://athulmenondev.is-a.dev)
-- **Holopin**: [@athulmenondev](https://holopin.io/@athulmenondev)
+
+<p align="center">
+  <a href="https://holopin.io/@athulmenondev">
+    <img src="https://holopin.me/athulmenondev" width="100%" alt="@athulmenondev's Holopin board" />
+  </a>
+</p>
 
 ```json
 {
