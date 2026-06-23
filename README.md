@@ -2,78 +2,83 @@
   <img src="others/hero.svg" width="100%" alt="Hero Banner" />
 </p>
 
----
+<p align="center">
 
-### ✦ The Identity
-> "Building high-integrity systems with a cinematic aesthetic."
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
-I am **Athul Menon**, a software developer and Computer Science student focused on the intersection of robust backend logic and elegant user experiences. Currently deep-diving into the **Java ecosystem** on a **Debian 13** environment, I enjoy architecting solutions that range from security-focused ML projects to fluid mobile applications.
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-### ⬡ The Bento Stack
-<table border="0">
-  <tr>
-    <td width="60%" rowspan="2">
-      <h3>Machine Intelligence</h3>
-      <p>Currently engineering a <b>Phishing Detection</b> engine using ML principles. Focused on identifying threat patterns in real-time communication.</p>
-      <code>Java / ML / Debian Linux</code>
-    </td>
-    <td width="40%">
-      <h3>Sound & Vision</h3>
-      <p>Refactoring the <b>BlackHole</b> Flutter music player. Obsessed with cinematic UI and sound engineering.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="40%">
-      <h3>Environment</h3>
-      <p>OS: Debian 13<br/>WM: i3-gaps<br/>Editor: Neovim / VS Code</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⬡ The Forge (Tech Stack)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </p>
 
 ---
 
-### ✦ The Archive
+## `./identity`
+
+> Building high-integrity systems with a cinematic aesthetic.
+
+I'm **Athul Menon**, a software developer and Computer Science student working at the intersection of robust backend architecture and refined user experience. My craft lives in the details—clean APIs, thoughtful type systems, and interfaces that feel inevitable.
+
+**Current focus**: Deep in the Java ecosystem, building on **Debian 13** with i3-gaps.
+
+---
+
+## `./work`
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **Phishing Detection Engine** | Java / ML / Security | In Development |
+| **BlackHole Music Player** | Flutter / Firebase | UI Refactor |
+| **Portfolio & Site** | Static / Performance | Live |
+
+---
+
+## `./stack`
+
+```
+languages     →  Java, JavaScript, TypeScript, Bash
+backend       →  Spring Boot, REST APIs, Microservices
+frontend      →  HTML5, CSS3, React (learning)
+tools         →  Git, Maven, Gradle, Docker
+environment   →  Debian 13, i3-gaps, Neovim, VS Code
+```
+
+---
+
+## `./signals`
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulmenondev&theme=react-dark&bg_color=0d1117&hide_border=true&color=6366f1" width="100%" />
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=athulmenondev&theme=github-dark&bg_color=0d1117&hide_border=true&color=6366f1&line=6366f1&point=ED8B00)
+
 </p>
 
 <p align="center">
-  <a href="https://holopin.io/@athulmenondev">
-    <img src="https://holopin.me/athulmenondev" width="100%" alt="@athulmenondev's Holopin board" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulmenondev&theme=github-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/athulmenondev)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=athulmenondev&theme=github-dark&hide_border=true)](https://github.com/athulmenondev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulmenondev&theme=github-dark&hide_border=true&layout=compact)](https://github.com/athulmenondev)
+
 </p>
 
 ---
 
-### ⤷ **View my portfolio [here](https://athulmenondev.is-a.dev)**
+## `./connect`
 
----
+- **Email**: [athulmenondev@gmail.com](mailto:athulmenondev@gmail.com)
+- **Portfolio**: [athulmenondev.is-a.dev](https://athulmenondev.is-a.dev)
+- **Holopin**: [@athulmenondev](https://holopin.io/@athulmenondev)
 
-### ⬡ Signal
 ```json
 {
-  "email": "athulmenondev@gmail.com",
-  "learning": "Spring Boot / Advanced Java",
-  "interests": ["Coding", "Music", "Cinematography"],
-  "collaboration": "Open for Open Source & TechFest initiatives"
+  "currently_learning": "Spring Boot / Advanced Java",
+  "interests": ["Systems Design", "ML Security", "Cinematography"],
+  "open_to": "Open Source • TechFest • Collaboration"
 }
+```
+
+---
+
+<p align="center">
+  <sub>⚡ Built with discipline and curiosity.</sub>
+</p>
